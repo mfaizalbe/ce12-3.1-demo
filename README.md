@@ -1,5 +1,5 @@
 # ce12-3.1-demo
-Basic GitHub Actions workflows for CICD and Terraform automation.
+GitHub Actions workflows for CICD and Terraform automation.
 
 📘 What I Learned
 - Set up and structured GitHub Actions workflows for CI/CD automation
